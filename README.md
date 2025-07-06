@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BlakeeBobz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning blender and pyautogui
+- 🌱 I’m currently learning editing websites through javascript
 - 💞️ I’m looking to collaborate on anything
-- 😄 Pronouns: he, him, banana
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: The first coding language I ever learned was python!
 
 <!---
